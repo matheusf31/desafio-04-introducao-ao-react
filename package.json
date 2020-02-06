@@ -1,0 +1,8 @@
+{
+  "name": "Desafio 4: Introdução ao React",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:matheusf31/Desafio-4-Introducao-ao-React.git",
+  "author": "Matheus Filipe <mfcr031@gmail.com>",
+  "license": "MIT"
+}
