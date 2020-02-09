@@ -8,4 +8,9 @@ Clone ou faça o download e abra o arquivo: public > index.html
 
 #### Para rodar usando o React e fazer alterações: 
 
-Rode no terminal: `$ yarn dev` e abra a página no endereço exibido no terminal
+Rode no terminal: 
+
+  `$ yarn`
+  `$ yarn dev` 
+  
+Abra a página no endereço exibido no terminal
