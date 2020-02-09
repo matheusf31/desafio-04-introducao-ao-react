@@ -10,7 +10,7 @@ Clone ou faça o download e abra o arquivo: public > index.html
 
 Rode no terminal: 
 
-  `$ yarn` E depois
-  `$ yarn dev` 
+  `$ yarn e depois
+  $ yarn dev` 
   
 Abra a página no endereço exibido no terminal
