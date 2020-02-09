@@ -99,7 +99,7 @@ class PostList extends React.Component {
     return (
       <div className='postlist'>
         {posts.map(post => (
-          <PostItem key={post.id} data={post} />
+          <PostItem key={post.id} {...post} />
         ))}
       </div>
     );
